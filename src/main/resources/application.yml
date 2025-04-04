@@ -1,0 +1,6 @@
+server:
+  port: 8081 # Change this to the desired port
+
+spring:
+  application:
+    name: websocket-app
